@@ -111,3 +111,6 @@ Built for meaningful industrial transformation.
 MurMur Creative Systems
 
 📩 MurMurOfficial@icloud.com
+
+This repository is licensed under the MurMur A Learning Constellations Proprietary License.
+See LICENSE.txt for details.

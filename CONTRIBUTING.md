@@ -69,4 +69,4 @@ Navigate back to the GreenLand repository and click on:
 ---
 
 ## Code of Conduct
-Our project is committed to fostering an inclusive, kind, and respectful environment for everyone. Kindly adhere to principles of respect and collaboration outlined [here](CODE_OF_CONDUCT.md) in every contribution.
+Our project is committed to fostering an inclusive, kind, and respectful environment for everyone. Kindly adhere to principles of respect and collaboration outlined in our [Code of Conduct](CODE_OF_CONDUCT.md) in every contribution.

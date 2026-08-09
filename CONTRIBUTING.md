@@ -29,9 +29,11 @@ git checkout -b feature-your-feature-name
 - Make incremental commits for better tracking:
 
 ```bash
-git add .
+git add <changed-file>
 git commit -m "Your explanatory commit message"
 ```
+
+> Avoid `git add .` — it can accidentally stage sensitive files such as `.env` or local config. Always add files by name so you know exactly what is going into the commit.
 
 ---
 
@@ -41,7 +43,7 @@ git commit -m "Your explanatory commit message"
 Once satisfied with your changes, push your branch back to your fork:
 
 ```bash
-git push origin feature-your-feature-name
+git push -u origin feature-your-feature-name
 ```
 
 ### 2. Open a Pull Request

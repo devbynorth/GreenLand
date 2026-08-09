@@ -8,7 +8,7 @@ We as contributors and maintainers of GreenLand pledge to make participation in 
 
 ## Our Standards
 
-### Expected behavior
+### Expected Behavior
 
 - Use welcoming and inclusive language
 - Respect differing viewpoints and experiences
@@ -16,7 +16,7 @@ We as contributors and maintainers of GreenLand pledge to make participation in 
 - Focus on what is best for the community and the project
 - Show empathy and kindness toward other contributors
 
-### Unacceptable behavior
+### Unacceptable Behavior
 
 - Harassment, insults, or derogatory comments in any form
 - Personal or political attacks

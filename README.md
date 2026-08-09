@@ -1,6 +1,4 @@
-# GreenLand
-Greenland -/presentasjonsvennlige bilder
-# Greenland — Green Documentation Partner ⚓🌱
+# GreenLand — Green Documentation Partner
 
 Enova-ready cinematic documentation for maritime green transition projects.
 
@@ -19,7 +17,7 @@ Modern maritime companies are rapidly transitioning toward:
 
 But many companies still communicate this transformation poorly.
 
-Greenland exists to document industrial transition in a cinematic, structured and investor-friendly way.
+GreenLand exists to document industrial transition in a cinematic, structured and investor-friendly way.
 
 Not just media.
 
@@ -27,11 +25,11 @@ Infrastructure storytelling.
 
 ---
 
-# What We Deliver
+## What We Deliver
 
-## Fixed Documentation Package — 18 000 NOK
+### Fixed Documentation Package — 18 000 NOK
 
-### Includes
+#### Includes
 
 - 1 full production day
 - drone footage
@@ -43,7 +41,7 @@ Infrastructure storytelling.
 
 ---
 
-# Focus Areas
+## Focus Areas
 
 - Maritime decarbonization
 - Shore power transition
@@ -55,9 +53,9 @@ Infrastructure storytelling.
 
 ---
 
-# Example Case
+## Example Case
 
-## Horten Verft — From Diesel to Shore Power
+### Horten Verft — From Diesel to Shore Power
 
 A fictional demonstration project showing:
 
@@ -69,7 +67,7 @@ A fictional demonstration project showing:
 
 ---
 
-# Why This Matters
+## Why This Matters
 
 Future industrial companies will need:
 
@@ -84,7 +82,7 @@ Green documentation becomes part of the infrastructure itself.
 
 ---
 
-# Stack
+## Stack
 
 - Drone cinematography
 - AI-assisted workflows
@@ -96,7 +94,7 @@ Green documentation becomes part of the infrastructure itself.
 
 ---
 
-# Philosophy
+## Philosophy
 
 Built for humans.
 
@@ -106,11 +104,11 @@ Built for meaningful industrial transformation.
 
 ---
 
-# Contact
+## Contact
 
 MurMur Creative Systems
 
-📩 MurMurOfficial@icloud.com
+MurMurOfficial@icloud.com
 
 This repository is licensed under the MurMur A Learning Constellations Proprietary License.
 See LICENSE for details.
